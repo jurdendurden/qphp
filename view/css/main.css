@@ -1,0 +1,15 @@
+@font-face 
+{
+    font-family: 'Console Text';
+    src: url('resources/fonts/Web437_IBM_VGA_8x16.woff');
+}
+
+/*Layout*/
+
+body
+{
+    background-color: black;    
+    color: white;
+    font-family: 'Console Text';
+    font-size: medium;
+}
